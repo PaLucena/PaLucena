@@ -1,8 +1,7 @@
 #
 ### My 42 profile:
 
-[![<palucena>'s 42 stats](https://badge.mediaplus.ma/darkblue/<palucena>)](https://github.com/oakoudad/badge42)
-[![<palucena>'s 42 stats](https://badge.mediaplus.ma/<greenbinary>/<palucena>)](https://github.com/oakoudad/badge42)
+[![palucena's 42 stats](https://badge.mediaplus.ma/greenbinary/palucena?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 [![palucena's 42 stats](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/stats?cursusId=21&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
 
