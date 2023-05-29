@@ -3,6 +3,10 @@
   Hello there, I'm Pablo
 </h1>
 
+Percent:
+
+![](https://geps.dev/progress/80)
+
 <h3 align="center">☎️ Contact me:</h3>
  <p align="center">
   <a href="https://www.linkedin.com/in/pablo-lucena-gonz%C3%A1lez-34a172213/">
