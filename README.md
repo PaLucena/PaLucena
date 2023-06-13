@@ -16,7 +16,7 @@
 <h2>⚙️ Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,arduino,bash,c,css,html,js&perline=7" />
+    <img src="https://skillicons.dev/icons?i=autocad,arduino,vscode,bash,c,css,html,js&perline=4" />
   </a>
 </p>
 
