@@ -30,6 +30,7 @@
 ### Common core progression:
 | rank  | proyect | score|
 | ---   | --- | --- |
+|2️⃣|[pipex](https://github.com/PaLucena/pipex)| [![palucena's 42 pipex Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3120071)](https://github.com/JaeSeoKim/badge42) |
 |2️⃣|[Exam Rank 02](https://github.com/PaLucena/Exam-Rank-02)| [![palucena's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3115751)](https://github.com/JaeSeoKim/badge42) |
 |1️⃣|Born2beroot| [![palucena's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3103684)](https://github.com/JaeSeoKim/badge42) |
 |1️⃣|[get_next_line](https://github.com/PaLucena/get_next_line)| [![palucena's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3081812)](https://github.com/JaeSeoKim/badge42) |
