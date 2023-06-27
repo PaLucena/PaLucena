@@ -16,19 +16,19 @@
   </a>
 </p>
 
-<h2>⚙️ Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=autocad,arduino,vscode,bash,c,css,html,js&perline=4" />
-  </a>
-</p>
-
 <h2>🎓 42 Cursus</h2>
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/palucena?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42" />
 </p>
-  
+
+<h2>⚙️ Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=autocad,arduino,vscode,bash,c,css,html,js&perline=8" />
+  </a>
+</p>
+
 ### Common core progression:
 | rank  | proyect | score|
 | ---   | --- | --- |
