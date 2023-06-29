@@ -40,7 +40,7 @@
 |0️⃣|[libft](https://github.com/PaLucena/libft)| [![palucena's 42 Libft Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3069821)](https://github.com/JaeSeoKim/badge42) |
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=PaLucena&style=flat-square&color=green" />
+  <img src="https://komarev.com/ghpvc/?username=PaLucena&style=flat-square&color=red" />
 </p>
 <!--
 Así se comenta en GitHub
