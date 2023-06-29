@@ -1,7 +1,17 @@
+<!--                     #################### TITLE ####################                     -->
+
+
+
 <h1 align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30">
   Hello there, I'm Pablo
 </h1>
+
+
+
+<!--                   #################### CONTACTO ####################                     -->
+
+
 
 <h3 align="center">☎️ Contact me:</h3>
  <p align="center">
@@ -16,32 +26,106 @@
   </a>
 </p>
 
-<h2>🎓 42 Cursus</h2>
+
+
+<!--                     #################### SKILLS ####################                     -->
+
+
+
+<h2 align="center">🎓 My 42 Profile</h2>
 
 <p align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/palucena?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42" />
 </p>
 
-<h2>⚙️ Tools</h2>
+<h3 align="center">⚙️ Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=autocad,arduino,vscode,bash,c,css,html,js&perline=8" />
   </a>
 </p>
 
-### Common core progression:
-| rank  | proyect | score|
-| ---   | --- | --- |
-|2️⃣|[pipex](https://github.com/PaLucena/pipex)| [![palucena's 42 pipex Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3120071)](https://github.com/JaeSeoKim/badge42) |
-|2️⃣|[Exam Rank 02](https://github.com/PaLucena/Exam-Rank-02)| [![palucena's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3115751)](https://github.com/JaeSeoKim/badge42) |
-|1️⃣|Born2beroot| [![palucena's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3103684)](https://github.com/JaeSeoKim/badge42) |
-|1️⃣|[get_next_line](https://github.com/PaLucena/get_next_line)| [![palucena's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3081812)](https://github.com/JaeSeoKim/badge42) |
-|1️⃣|[printf](https://github.com/PaLucena/printf)| [![palucena's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3080536)](https://github.com/JaeSeoKim/badge42) |
-|0️⃣|[libft](https://github.com/PaLucena/libft)| [![palucena's 42 Libft Score](https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3069821)](https://github.com/JaeSeoKim/badge42) |
+
+
+<!--                  #################### GITHUB STATS ####################                     -->
+
+
+
+<div align="center">
+  <h3>⚡️ GitHub Stats:</h3>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PaLucena&theme=javascript-dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=45%2C07001E%2CBE4444&border=EBEBEB&stroke=EBEBEB&currStreakLabel=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&sideLabels=EBEBEB" alt="GitHub Streak"></a>
+</div>
+
+
+
+<!--                     #################### TABLAS ####################                     -->
+
+
+
+<h2 align="center">Common core progression:</h2>
+
+<h3 align="center">Rank 0:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Proyect</b></td>
+    <td align="center" width="200"><b>Score</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/libft">Libft</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3069821" alt="palucena's 42 Libft Score" /></a></td>
+  </tr>
+</table>
+
+<h3 align="center">Rank 1:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Proyect</b></td>
+    <td align="center" width="200"><b>Score</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PaLucena/printf">Printf</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3080536" alt="palucena's 42 ft_printf Score" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PaLucena/get_next_line">Get Next Line</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3081812" alt="palucena's 42 get_next_line Score" /></a></td>
+  </tr>
+  <tr>
+    <td align="center">Born2beroot</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3103684" alt="palucena's 42 Born2beroot Score" /></a></td>
+  </tr>
+</table>
+
+<h3 align="center">Rank 2:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Proyect</b></td>
+    <td align="center" width="200"><b>Score</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/pipex">Pipex</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3120071" alt="palucena's 42 pipex Score" /></a></td>
+  </tr>
+  <tr>
+    <td align="center">Fract'ol</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">Push swap</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02">Exam Rank 2</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3115751" alt="palucena's 42 Exam Rank 02 Score" /></a></td>
+  </tr>
+</table>
+
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=PaLucena&style=flat-square&color=red" />
 </p>
+
 <!--
 Así se comenta en GitHub
 -->
