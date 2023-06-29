@@ -64,38 +64,6 @@
 
 <h2 align="center">Common core progression:</h2>
 
-<h3 align="center">Rank 0:</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Score</b></td>
-  </tr>
-  <tr>
-    <td align="center"> <a href="https://github.com/PaLucena/libft">Libft</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3069821" alt="palucena's 42 Libft Score" /></a></td>
-  </tr>
-</table>
-
-<h3 align="center">Rank 1:</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Score</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/PaLucena/printf">Printf</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3080536" alt="palucena's 42 ft_printf Score" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/PaLucena/get_next_line">Get Next Line</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3081812" alt="palucena's 42 get_next_line Score" /></a></td>
-  </tr>
-  <tr>
-    <td align="center">Born2beroot</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3103684" alt="palucena's 42 Born2beroot Score" /></a></td>
-  </tr>
-</table>
-
 <h3 align="center">Rank 2:</h3>
 <table align="center">
   <tr>
@@ -119,6 +87,39 @@
     <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3115751" alt="palucena's 42 Exam Rank 02 Score" /></a></td>
   </tr>
 </table>
+
+<h3 align="center">Rank 1:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Proyect</b></td>
+    <td align="center" width="200"><b>Score</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PaLucena/printf">Printf</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3080536" alt="palucena's 42 ft_printf Score" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PaLucena/get_next_line">Get Next Line</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3081812" alt="palucena's 42 get_next_line Score" /></a></td>
+  </tr>
+  <tr>
+    <td align="center">Born2beroot</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3103684" alt="palucena's 42 Born2beroot Score" /></a></td>
+  </tr>
+</table>
+
+<h3 align="center">Rank 0:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Proyect</b></td>
+    <td align="center" width="200"><b>Score</b></td>
+  </tr>
+  <tr>
+    <td align="center"> <a href="https://github.com/PaLucena/libft">Libft</td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3069821" alt="palucena's 42 Libft Score" /></a></td>
+  </tr>
+</table>
+
 
 
 
