@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td align="center">Push swap</td>
-    <td align="center"></td>
+    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3167260" alt="palucena's 42 push_swap Score" /></a></td>
   </tr>
   <tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02">Exam Rank 2</td>
