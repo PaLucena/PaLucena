@@ -75,7 +75,7 @@
     <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3120071" alt="palucena's 42 pipex Score" /></a></td>
   </tr>
   <tr>
-    <td align="center">Fract'ol</td>
+    <td align="center"><a href="https://github.com/PaLucena/fract-ol">Fract'ol</a></td>
     <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3140032" alt="palucena's 42 fract-ol Score" /></a></td>
   </tr>
   <tr>
