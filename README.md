@@ -31,12 +31,15 @@
 <!--                     #################### SKILLS ####################                     -->
 
 
-
+<!-- 
 <h2 align="center">🎓 My 42 Profile</h2>
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/palucena?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42" />
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/palucena?1337Badge=off&UM6P=off" />
+  </a>
 </p>
+-->
 
 <h3 align="center">⚙️ Tools:</h3>
 <p align="center">
