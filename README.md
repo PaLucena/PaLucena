@@ -95,7 +95,7 @@
     <td align="center" width="200"><b>Score</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/PaLucena/printf">ft_printf</td>
+    <td align="center"><a href="https://github.com/PaLucena/ft_printf">ft_printf</td>
     <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
