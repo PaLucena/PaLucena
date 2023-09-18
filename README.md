@@ -79,7 +79,7 @@
     <td align="center"><img src="https://img.shields.io/badge/-116%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
-    <td align="center">Push swap</td>
+    <td align="center">"><a href="https://github.com/PaLucena/push_swap">Push swap</td>
     <td align="center"><img src="https://img.shields.io/badge/-96%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
