@@ -72,19 +72,19 @@
   </tr>
   <tr>
     <td align="center"> <a href="https://github.com/PaLucena/pipex">Pipex</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3120071" alt="palucena's 42 pipex Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/fract-ol">Fract'ol</a></td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3140032" alt="palucena's 42 fract-ol Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-116%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
     <td align="center">Push swap</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3167260" alt="palucena's 42 push_swap Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-96%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
     <td align="center"> <a href="https://github.com/PaLucena/Exam-Rank-02">Exam Rank 2</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3115751" alt="palucena's 42 Exam Rank 02 Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
 </table>
 
@@ -95,16 +95,16 @@
     <td align="center" width="200"><b>Score</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/PaLucena/printf">Printf</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3080536" alt="palucena's 42 ft_printf Score" /></a></td>
+    <td align="center"><a href="https://github.com/PaLucena/printf">ft_printf</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/get_next_line">Get Next Line</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3081812" alt="palucena's 42 get_next_line Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
   <tr>
     <td align="center">Born2beroot</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3103684" alt="palucena's 42 Born2beroot Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
 </table>
 
@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td align="center"> <a href="https://github.com/PaLucena/libft">Libft</td>
-    <td align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh0rcvvr004008ms8n3f7co8/project/3069821" alt="palucena's 42 Libft Score" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=fff" /></a></td>
   </tr>
 </table>
 
