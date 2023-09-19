@@ -71,19 +71,19 @@
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Score</b></td>
+    <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
     <td align="center">MiniShell</td>
-    <td align="center"><img src="https://img.shields.io/badge/-...%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center">...</td>
   </tr>
   <tr>
     <td align="center">Philosophers</a></td>
-    <td align="center"><img src="https://img.shields.io/badge/-...%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center">...</td>
   </tr>
   <tr>
     <td align="center">Exam Rank 3</td>
-    <td align="center"><img src="https://img.shields.io/badge/-...%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center">...</td>
   </tr>
 </table>
 
@@ -91,23 +91,23 @@
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Score</b></td>
+    <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/pipex">Pipex</td>
-    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/fract-ol">Fract'ol</a></td>
-    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/push_swap">Push swap</td>
-    <td align="center"><img src="https://img.shields.io/badge/-96%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-96%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-02">Exam Rank 2</td>
-    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
 </table>
 
@@ -115,19 +115,19 @@
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Score</b></td>
+    <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/ft_printf">ft_printf</td>
-    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/get_next_line">Get Next Line</td>
-    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center">Born2beroot</td>
-    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"/></td>
   </tr>
 </table>
 
@@ -135,11 +135,11 @@
 <table align="center">
   <tr>
     <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Score</b></td>
+    <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/libft">Libft</td>
-    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
 </table>
 
@@ -147,7 +147,7 @@
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=PaLucena&style=flat-square&color=red" />
+  <img src="https://komarev.com/ghpvc/?username=PaLucena&style=flat-square&color=red">
 </p>
 
 <!--
