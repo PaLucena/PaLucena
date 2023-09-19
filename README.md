@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/fract-ol">Fract'ol</a></td>
-    <td align="center"><img src="https://img.shields.io/badge/-116%2F100-success?logo=42&logoColor=000" /></a></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000" /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/push_swap">Push swap</td>
