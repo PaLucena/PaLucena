@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td align="center">Exam Rank 3</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
 </table>
 
