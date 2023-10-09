@@ -78,11 +78,11 @@
     <td align="center">...</td>
   </tr>
   <tr>
-    <td align="center">Philosophers</a></td>
+    <td align="center"><a href="https://github.com/PaLucena/Philosophers">Philosophers</td>
     <td align="center">...</td>
   </tr>
   <tr>
-    <td align="center">Exam Rank 3</td>
+    <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-03">Exam Rank 3</td>
     <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
 </table>
