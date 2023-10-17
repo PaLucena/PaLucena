@@ -12,7 +12,7 @@
 <!--                   #################### CONTACTO ####################                     -->
 
 
-<table>
+<table align="center">
   </tr>
   <td>
     <h3 align="center">☎️ Contact me:</h3>
