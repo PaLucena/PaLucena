@@ -1,11 +1,7 @@
 <!--                     #################### TITLE ####################                     -->
 
 
-
-<h1 align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30">
-  Hello there, I'm Pablo
-</h1>
+<h1 align="center"> Hello there , I'm Pablo ✌🏼</h1>
 
 
 
@@ -15,6 +11,7 @@
 <table align="center">
   </tr>
   <td>
+    <h3 align="center"> Check my <a href="https://github.com/PaLucena/42_Cursus">42</a> profile!</h3>
     <h3 align="center">☎️ Contact me:</h3>
      <p align="center">
       <a href="https://www.linkedin.com/in/pablo-lucena-gonz%C3%A1lez-34a172213/">
@@ -27,10 +24,10 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
       </a>
     </p>
-    <h3 align="center">⚙️ Tools:</h3>
+    <h3 align="center">⚙️ Languages & Tools:</h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=autocad,arduino,vscode,bash,c,css,html,js&perline=8" />
+        <img src="https://skillicons.dev/icons?i=c,css,html,js,autocad,arduino,git,bash&perline=8" />
       </a>
     </p>
   </td>
