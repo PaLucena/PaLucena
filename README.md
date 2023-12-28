@@ -11,7 +11,8 @@
       <a href="https://instagram.com/mr.lucena/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     </p>
     <h3 align="center">⚙️ Languages & Tools:</h3>
-    <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,css,html,js,autocad,arduino,git,bash&perline=8" /></a></p>
+    <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,css,html,js&perline=5" /></a></p>
+    <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=autocad,arduino,git,bash&perline=5" /></a></p>
   </td>
   <td>
     <div align="center">
