@@ -3,7 +3,7 @@
 <table align="center">
   </tr>
   <td>
-    <h3 align="center"> Check my <a href="https://github.com/PaLucena/42_Cursus">42 proyects</a>!</h3>
+    <h3 align="center"> Check my <a href="https://github.com/PaLucena/42_Cursus">42 projects</a>!</h3>
     <h3 align="center">☎️ Contact me:</h3>
      <p align="center">
        <a href="https://www.linkedin.com/in/lucena"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
