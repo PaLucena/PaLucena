@@ -3,15 +3,14 @@
 <table align="center">
   </tr>
   <td>
-    <h3 align="center"> Check my <a href="https://github.com/PaLucena/42_Cursus">42 projects</a>!</h3>
+    <h3 align="center"> Check my <a href="https://PaLucena.github.io">portfolio</a>!</h3>
     <h3 align="center">☎️ Contact me:</h3>
      <p align="center">
        <a href="https://www.linkedin.com/in/lucena"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="mailto:pablolucena01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://instagram.com/mr.lucena/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     </p>
     <h3 align="center">⚙️ Languages & Tools:</h3>
-    <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bash,git,bootstrap,docker,arduino&perline=5" /></a></p>
+    <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,bash,git,docker,html,css,bootstrap,js,nodejs&perline=5" /></a></p>
   </td>
   <td>
     <div align="center">
