@@ -10,13 +10,12 @@
   <a href="https://www.42malaga.com/"><img alt="Static Badge" src="https://img.shields.io/badge/palucena-white?style=for-the-badge&logo=42&logoColor=black"></a>
 </div>
 
+<br>
 <h3>📚 About me</h3>
 <ul>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam commodo odio in blandit posuere. Sed dignissim lacinia malesuada. Sed risus augue, cursus at leo in, maximus hendrerit mi. Nam id erat at dui aliquam facilisis ut vitae elit. Donec sit amet rhoncus orci. Nulla vitae laoreet tellus, ac aliquet eros. Nulla cursus orci quis leo tempus pretium.
-<br>
-Pellentesque malesuada, lacus vel vehicula varius, ante metus rutrum nibh, non viverra lorem tellus pharetra nunc. Nunc odio massa, tempus eget nisi ac, auctor aliquet ante. Sed arcu est, tincidunt a sapien eget, aliquet dapibus ligula. Cras sed massa quam. Curabitur volutpat id diam et tristique. Aenean finibus ex bibendum diam luctus ullamcorper. Vivamus a lorem a turpis eleifend molestie.
-  <br>
-  Check out my <a href="https://PaLucena.github.io">portfolio</a>!
+  My name is Pablo, I'm an advanced student at 42 Málaga. I'm fascinated with Graphics develpoment, IoT and Web Development. Currently I'm looking forward to kickstart my carreer as a software developer. Why don't you check out my <a href="https://PaLucena.github.io">portfolio</a>?
+  <br><br>
+  When I'm not immersed in the world of coding, you’ll likely find me breaking a sweat at the gym, diving into the pages of an epic fantasy novel, or exploring the fascinating horizons of emerging technologies.
 </ul>
 
 <br>
@@ -105,6 +104,7 @@ Pellentesque malesuada, lacus vel vehicula varius, ante metus rutrum nibh, non v
 </table>
 </div>
 
+<br>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=PaLucena&style=flat-square&color=red"></p>
 
 <!--
