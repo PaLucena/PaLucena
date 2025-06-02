@@ -15,7 +15,7 @@
 <ul>
   My name is Pablo, I'm an FullStack Developer & advanced student at 42 Málaga. I'm fascinated with Web Development, Graphics develpoment and IoT. Currently I'm developing a web application for 42 Málaga. Why don't you check out my <a href="https://PaLucena.github.io">portfolio</a>?
   <br><br>
-  When I'm not immersed in the world of coding, you’ll likely find me breaking a sweat at the gym, diving into the pages of an epic fantasy novel, or exploring the fascinating horizons of emerging technologies.
+  When I'm not immersed in the world of coding, you’ll likely find me climbing a wall, breaking a sweat at the gym, diving into the pages of an epic fantasy novel, or exploring the fascinating horizons of emerging technologies.
 </ul>
 
 <br>
