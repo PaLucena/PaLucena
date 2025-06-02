@@ -13,7 +13,7 @@
 <br>
 <h3>📚 About me</h3>
 <ul>
-  My name is Pablo, I'm an advanced student at 42 Málaga. I'm fascinated with Graphics develpoment, IoT and Web Development. Currently I'm looking forward to kickstart my carreer as a software developer. Why don't you check out my <a href="https://PaLucena.github.io">portfolio</a>?
+  My name is Pablo, I'm an FullStack Developer & advanced student at 42 Málaga. I'm fascinated with Web Development, Graphics develpoment and IoT. Currently I'm developing a web application for 42 Málaga. Why don't you check out my <a href="https://PaLucena.github.io">portfolio</a>?
   <br><br>
   When I'm not immersed in the world of coding, you’ll likely find me breaking a sweat at the gym, diving into the pages of an epic fantasy novel, or exploring the fascinating horizons of emerging technologies.
 </ul>
